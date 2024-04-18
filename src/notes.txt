@@ -1,0 +1,13 @@
+FRONT:
+---------------------
+contenu: recupérer nationality formuler en class react 
+selon team Bleu ou Rouge placement sur la gauche ou bien la droite.
+button tirer, capacité spé dépendant de la classe choisi.
+choix qui tirer ext.
+
+
+BACK:
+----------------------
+créer des instances de classe pas d'objet
+les implémenter tableau selon équipe.
+choix random tour par tour.

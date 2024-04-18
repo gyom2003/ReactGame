@@ -4,6 +4,7 @@ import Artilleur from "./classes/artilleur";
 import Sniper from "./classes/sniper";
 import InputTeam from '../src/components/inputcomponent'
 
+
 function App() {
   const soldat1 = new Soldat("Guillaume", "leformal", "france", "bleu")
   const medecin1 = new Medecin("Gustave", "leformal", "guys?", "bleu")
